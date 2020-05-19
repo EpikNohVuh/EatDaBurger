@@ -1,0 +1,57 @@
+.color {
+  background: rgb(247, 235, 196);
+}
+.btn2 {
+  background-color: #FEDE79;
+  border: blue;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+li {
+  padding: 10px;
+  margin: 10px;
+  list-style: none;
+  font-weight: bold;
+  background-color: #C3F2DE;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+h1{
+  font-family: impact;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+  font-weight: bold;
+}
+p {
+  font-size:125%;
+  font-weight: bold;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
+.jumbotron {
+  background-image: url("../images/BurgerJuicy.jpg");
+  background-size: cover;
+}
+.burger h3{
+  text-align: center;
+}
+
+
